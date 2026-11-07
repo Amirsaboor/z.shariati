@@ -11,7 +11,7 @@
 
 </div>
 
-## About
+## 01 — About
 
 <div align="center">
 <img src="./assets/about.svg" alt="About Zahra Shariati" width="100%" />
@@ -21,29 +21,41 @@
 
 <div align="center"><i>"Build with purpose. Improve with every commit."</i></div>
 
-## Stack
+---
+
+## 02 — Tech Stack
 
 <div align="center">
 <img src="./assets/stack.svg" alt="Tech stack" width="100%" />
 </div>
 
-## Focus & Selected Work
+---
+
+## 03 — Technical Focus
+
+<div align="center">
+<img src="./assets/focus.svg?v=1" alt="Backend, database and frontend focus" width="100%" />
+</div>
+
+<br/><br/>
+
+---
+
+## 04 — Selected Projects
 
 <div align="center">
 
-<img src="./assets/focus.svg?v=1" alt="Backend, database and frontend focus" width="100%" />
+<img src="./assets/projects.svg?v=2" alt="Selected projects" width="100%" />
 
 <br/>
 
-<img src="./assets/projects.svg?v=1" alt="Selected projects" width="100%" />
-
-<br/>
-
-<a href="https://github.com/MahXari?tab=repositories">View all repositories ↗</a> &nbsp;·&nbsp; <a href="https://github.com/MahXari">GitHub profile</a>
+<a href="https://github.com/MahXari?tab=repositories">Explore all repositories ↗</a> &nbsp;·&nbsp; <a href="https://github.com/MahXari">GitHub profile</a>
 
 </div>
 
-## Connect
+---
+
+## 05 — Connect
 
 <div align="center">
 
