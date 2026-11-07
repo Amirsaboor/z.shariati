@@ -27,23 +27,20 @@
 <img src="./assets/stack.svg" alt="Tech stack" width="100%" />
 </div>
 
-## GitHub
+## Focus & Selected Work
 
 <div align="center">
 
-[Profile](https://github.com/MahXari) · [Repositories](https://github.com/MahXari?tab=repositories) · [Activity](https://github.com/MahXari?tab=overview&from=2026-01-01&to=2026-12-31)
+<sub>BACKEND</sub> &nbsp; **PHP · Laravel** &nbsp; / &nbsp; <sub>DATABASE</sub> &nbsp; **MySQL** &nbsp; / &nbsp; <sub>FOUNDATIONS</sub> &nbsp; **HTML · CSS**
 
-</div>
+<br/><br/>
 
-## Selected Projects
-
-<div align="center">
-
-**TowingTask_front** &nbsp;·&nbsp; **Nafis Leather** &nbsp;·&nbsp; **CSeven**
-
+**TowingTask_front** &nbsp;·&nbsp; **Nafis Leather** &nbsp;·&nbsp; **CSeven**  
 **OKR** &nbsp;·&nbsp; **FasihiExchangeFront**
 
-[Explore repositories ↗](https://github.com/MahXari?tab=repositories)
+<br/>
+
+<a href="https://github.com/MahXari?tab=repositories">View all repositories ↗</a> &nbsp;·&nbsp; <a href="https://github.com/MahXari">GitHub profile</a>
 
 </div>
 
