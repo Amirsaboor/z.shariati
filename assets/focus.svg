@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="226" viewBox="0 0 1000 226" role="img" aria-label="Backend development, database and frontend skills">
+<style>
+text{font-family:'JetBrains Mono','IBM Plex Mono',ui-monospace,monospace}
+.card{fill:#131316;stroke:#26262c}
+.pill{fill:#172554;stroke:#2563eb}
+.label{fill:#ececf0;font-size:14px;font-weight:700}
+.sub{fill:#a0a0ad;font-size:11px;letter-spacing:1.2px}
+.skill{fill:#bfdbfe;font-size:13px;font-weight:600}
+.icon{fill:none;stroke:#60a5fa;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.fade{opacity:0;animation:pop .55s ease-out forwards}
+@keyframes pop{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}.fade{opacity:1}}
+</style>
+<rect class="card" x="0.5" y="0.5" width="322" height="225" rx="14"/>
+<rect class="card" x="338.5" y="0.5" width="322" height="225" rx="14"/>
+<rect class="card" x="676.5" y="0.5" width="323" height="225" rx="14"/>
+<g class="fade" style="animation-delay:.08s">
+<rect x="22" y="22" width="34" height="34" rx="9" fill="#172554"/>
+<path class="icon" d="M33 33l-5 6 5 6M45 33l5 6-5 6M41 30l-4 18"/>
+<text class="label" x="68" y="36">Backend</text><text class="sub" x="68" y="52">SERVER-SIDE DEVELOPMENT</text>
+<rect class="pill" x="22" y="82" width="126" height="42" rx="9"/>
+<circle cx="42" cy="103" r="10" fill="#2563eb"/><text x="42" y="107" font-size="10" font-weight="700" text-anchor="middle" fill="#fff">PHP</text><text class="skill" x="59" y="108">PHP</text>
+<rect class="pill" x="158" y="82" width="142" height="42" rx="9"/>
+<path d="M175 94l-5 9 5 9h10l5-9-5-9z" fill="none" stroke="#60a5fa" stroke-width="1.6"/><text class="skill" x="198" y="108">Laravel</text>
+<text x="22" y="166" class="sub">APPLICATION LOGIC · APIs</text>
+<path d="M22 187h278" stroke="#26262c"/>
+<text x="22" y="207" font-size="11" fill="#60a5fa">01 / BUILD</text>
+</g>
+<g class="fade" style="animation-delay:.2s">
+<rect x="360" y="22" width="34" height="34" rx="9" fill="#172554"/>
+<ellipse class="icon" cx="377" cy="32" rx="9" ry="4"/><path class="icon" d="M368 32v14c0 5 18 5 18 0V32M368 39c0 5 18 5 18 0"/>
+<text class="label" x="406" y="36">Database</text><text class="sub" x="406" y="52">DATA &amp; STORAGE</text>
+<rect class="pill" x="360" y="82" width="278" height="42" rx="9"/>
+<ellipse cx="384" cy="94" rx="9" ry="4" fill="none" stroke="#60a5fa" stroke-width="1.6"/><path d="M375 94v17c0 5 18 5 18 0V94M375 102c0 5 18 5 18 0" fill="none" stroke="#60a5fa" stroke-width="1.6"/>
+<text class="skill" x="407" y="108">MySQL</text>
+<text x="360" y="166" class="sub">RELATIONAL DATABASE</text>
+<path d="M360 187h278" stroke="#26262c"/>
+<text x="360" y="207" font-size="11" fill="#60a5fa">02 / ORGANIZE</text>
+</g>
+<g class="fade" style="animation-delay:.32s">
+<rect x="698" y="22" width="34" height="34" rx="9" fill="#172554"/>
+<rect class="icon" x="706" y="29" width="18" height="20" rx="2"/><path class="icon" d="M706 35h18M711 32h1M715 32h1"/>
+<text class="label" x="744" y="36">Frontend Basics</text><text class="sub" x="744" y="52">WEB STRUCTURE &amp; STYLE</text>
+<rect class="pill" x="698" y="82" width="132" height="42" rx="9"/>
+<path d="M713 94h15l-2 17-6 2-6-2z" fill="none" stroke="#60a5fa" stroke-width="1.5"/><text class="skill" x="738" y="108">HTML</text>
+<rect class="pill" x="840" y="82" width="136" height="42" rx="9"/>
+<path d="M855 94h15l-2 17-6 2-6-2z" fill="none" stroke="#60a5fa" stroke-width="1.5"/><text class="skill" x="880" y="108">CSS</text>
+<text x="698" y="166" class="sub">SEMANTIC MARKUP · STYLING</text>
+<path d="M698 187h278" stroke="#26262c"/>
+<text x="698" y="207" font-size="11" fill="#60a5fa">03 / PRESENT</text>
+</g>
+</svg>
