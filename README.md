@@ -48,10 +48,20 @@
 ## Projects
 
 <div align="center">
-<a href="https://github.com/MahXari?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+
+| Project | Repository |
+|:--|:--:|
+| **TowingTask_front** | [View on GitHub](https://github.com/MahXari?tab=repositories) |
+| **Nafis Leather** | [View on GitHub](https://github.com/MahXari?tab=repositories) |
+| **CSeven** | [View on GitHub](https://github.com/MahXari?tab=repositories) |
+| **OKR** | [View on GitHub](https://github.com/MahXari?tab=repositories) |
+| **FasihiExchangeFront** | [View on GitHub](https://github.com/MahXari?tab=repositories) |
+
 </div>
 
-Explore my repositories for projects, experiments, and development work.
+<div align="center">
+<a href="https://github.com/MahXari?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+</div>
 
 ## Connect
 
