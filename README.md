@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Zahra Shariati - Backend Developer" width="100%" />
+<img src="./assets/header.svg?v=2" alt="Zahra Shariati - Backend Developer" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&height=45&lines=Backend+Developer;PHP+%C2%B7+Laravel+%C2%B7+MySQL;HTML+%C2%B7+CSS+%C2%B7+Web+Development;Building+web+applications" alt="Typing animation" /></a>
 
