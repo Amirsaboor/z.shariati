@@ -31,9 +31,28 @@
 
 <div align="center">
 
-<sub>BACKEND</sub> &nbsp; **PHP · Laravel** &nbsp; / &nbsp; <sub>DATABASE</sub> &nbsp; **MySQL** &nbsp; / &nbsp; <sub>FOUNDATIONS</sub> &nbsp; **HTML · CSS**
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <sub>⚙️ BACKEND</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PHP-1E40AF?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Laravel-1D4ED8?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    </td>
+    <td align="center" width="33%">
+      <sub>🗄️ DATABASE</sub><br/><br/>
+      <img src="https://img.shields.io/badge/MySQL-1E40AF?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+    <td align="center" width="33%">
+      <sub>🎨 FRONTEND BASICS</sub><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-1D4ED8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CSS3-1E40AF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 **TowingTask_front** &nbsp;·&nbsp; **Nafis Leather** &nbsp;·&nbsp; **CSeven**  
 **OKR** &nbsp;·&nbsp; **FasihiExchangeFront**
