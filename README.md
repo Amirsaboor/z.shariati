@@ -1,67 +1,83 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=2" alt="Zahra Shariati - Backend Developer" width="100%" />
+<img src="./assets/header.svg?v=3" alt="Zahra Shariati — Backend Developer" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&height=45&lines=Backend+Developer;PHP+%C2%B7+Laravel+%C2%B7+MySQL;HTML+%C2%B7+CSS+%C2%B7+Web+Development;Building+web+applications" alt="Typing animation" /></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&height=38&lines=PHP+%2F+Laravel+Developer;Building+web+applications;Learning%2C+building%2C+improving" alt="Backend development typing animation" /></a>
 
 <br/>
 
-<a href="mailto:z.shariati.gh@gmail.com"><img src="https://img.shields.io/badge/Email-0C0C0E?style=flat-square&logo=gmail&logoColor=60A5FA" alt="Email" /></a>
-<a href="https://t.me/zahraa_shariati"><img src="https://img.shields.io/badge/Telegram-0C0C0E?style=flat-square&logo=telegram&logoColor=60A5FA" alt="Telegram" /></a>
+<a href="mailto:z.shariati.gh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-101A2B?style=flat-square&logo=gmail&logoColor=60A5FA&labelColor=101A2B" alt="Email" /></a>
+&nbsp;
+<a href="https://t.me/zahraa_shariati"><img src="https://img.shields.io/badge/TELEGRAM-101A2B?style=flat-square&logo=telegram&logoColor=60A5FA&labelColor=101A2B" alt="Telegram" /></a>
 
-</div>
-
-## 01 — About
-
-<div align="center">
-<img src="./assets/about.svg" alt="About Zahra Shariati" width="100%" />
 </div>
 
 <br/>
 
-<div align="center"><i>"Build with purpose. Improve with every commit."</i></div>
+## 01 / About
+
+<div align="center">
+<img src="./assets/about.svg?v=2" alt="About Zahra Shariati" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub><i>Build with purpose. Improve with every commit.</i></sub>
+</div>
+
+<br/>
 
 ---
 
-## 02 — Tech Stack
+## 02 / Tech Stack
 
 <div align="center">
-<img src="./assets/stack.svg" alt="Tech stack" width="100%" />
+<img src="./assets/stack.svg?v=2" alt="HTML, CSS, PHP, Laravel, MySQL, Git and GitHub" width="100%" />
 </div>
+
+<br/>
 
 ---
 
-## 03 — Technical Focus
+## 03 / Engineering Focus
 
 <div align="center">
-<img src="./assets/focus.svg?v=1" alt="Backend, database and frontend focus" width="100%" />
+<img src="./assets/focus.svg?v=2" alt="Backend, database and frontend fundamentals" width="100%" />
 </div>
+
+<br/>
+
+---
+
+## 04 / Selected Projects
+
+<div align="center">
+
+<img src="./assets/projects.svg?v=3" alt="Selected projects" width="100%" />
+
+<br/>
+
+<a href="https://github.com/MahXari?tab=repositories">Explore all repositories ↗</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/MahXari">GitHub profile</a>
+
+</div>
+
+<br/>
+
+---
+
+## 05 / Let's Connect
+
+<div align="center">
+
+<a href="mailto:z.shariati.gh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-172A46?style=for-the-badge&logo=gmail&logoColor=BFDBFE" alt="Email Zahra" /></a>
+&nbsp;
+<a href="https://t.me/zahraa_shariati"><img src="https://img.shields.io/badge/TELEGRAM-172A46?style=for-the-badge&logo=telegram&logoColor=BFDBFE" alt="Telegram Zahra" /></a>
 
 <br/><br/>
 
----
-
-## 04 — Selected Projects
-
-<div align="center">
-
-<img src="./assets/projects.svg?v=2" alt="Selected projects" width="100%" />
-
-<br/>
-
-<a href="https://github.com/MahXari?tab=repositories">Explore all repositories ↗</a> &nbsp;·&nbsp; <a href="https://github.com/MahXari">GitHub profile</a>
-
-</div>
-
----
-
-## 05 — Connect
-
-<div align="center">
-
-<a href="mailto:z.shariati.gh@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://t.me/zahraa_shariati"><img src="https://img.shields.io/badge/Telegram-1D4ED8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-
-<img src="./assets/footer.svg" alt="" width="100%" />
+<img src="./assets/footer.svg?v=2" alt="Keep building. Keep learning." width="100%" />
 
 </div>
