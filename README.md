@@ -39,10 +39,17 @@
 
 </div>
 
-### Contribution Snake
+## Development Focus
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/MahXari/MahXari/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+| Area | Focus |
+|:--|:--|
+| **Backend Development** | PHP · Laravel |
+| **Database** | MySQL · Data management |
+| **Web Foundations** | HTML · CSS |
+| **Engineering Approach** | Practical solutions · Readable code · Continuous improvement |
+
 </div>
 
 ## Projects
