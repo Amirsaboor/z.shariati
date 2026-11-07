@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Selected projects: TowingTask front, Nafis Leather, CSeven, OKR and FasihiExchangeFront">
+<style>
+text{font-family:'JetBrains Mono','IBM Plex Mono',ui-monospace,monospace}
+.card{fill:#131316;stroke:#26262c;transition:stroke .25s ease}
+.p{opacity:0;animation:rise .55s ease-out forwards}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.num{fill:#60a5fa;font-size:10px;letter-spacing:1.4px}
+.name{fill:#ececf0;font-size:14px;font-weight:600}
+.meta{fill:#858593;font-size:10px;letter-spacing:1px}
+.iconbox{fill:#172554;stroke:#1d4ed8}
+.icon{fill:none;stroke:#93c5fd;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}.p{opacity:1}}
+</style>
+<g class="p" style="animation-delay:.05s">
+<rect class="card" x="1" y="1" width="318" height="112" rx="12"/>
+<rect class="iconbox" x="20" y="20" width="38" height="38" rx="10"/>
+<path class="icon" d="M29 31h20v15H29zM33 27h12M34 51h10M35 36l-3 3 3 3M43 36l3 3-3 3"/>
+<text class="num" x="76" y="31">PROJECT / 01</text><text class="name" x="76" y="53">TowingTask_front</text><text class="meta" x="20" y="88">SELECTED WORK</text><path d="M20 98h278" stroke="#26262c"/>
+</g>
+<g class="p" style="animation-delay:.14s">
+<rect class="card" x="341" y="1" width="318" height="112" rx="12"/>
+<rect class="iconbox" x="360" y="20" width="38" height="38" rx="10"/>
+<path class="icon" d="M369 29h20v20h-20zM373 34h12M373 39h12M373 44h7"/>
+<text class="num" x="416" y="31">PROJECT / 02</text><text class="name" x="416" y="53">Nafis Leather</text><text class="meta" x="360" y="88">SELECTED WORK</text><path d="M360 98h278" stroke="#26262c"/>
+</g>
+<g class="p" style="animation-delay:.23s">
+<rect class="card" x="681" y="1" width="318" height="112" rx="12"/>
+<rect class="iconbox" x="700" y="20" width="38" height="38" rx="10"/>
+<path class="icon" d="M709 31h20v16h-20zM714 27h10M713 36h12M713 41h8"/>
+<text class="num" x="756" y="31">PROJECT / 03</text><text class="name" x="756" y="53">CSeven</text><text class="meta" x="700" y="88">SELECTED WORK</text><path d="M700 98h278" stroke="#26262c"/>
+</g>
+<g class="p" style="animation-delay:.32s">
+<rect class="card" x="171" y="127" width="318" height="112" rx="12"/>
+<rect class="iconbox" x="190" y="146" width="38" height="38" rx="10"/>
+<path class="icon" d="M199 155h20v20h-20zM203 160h12M203 165h12M203 170h8"/>
+<text class="num" x="246" y="157">PROJECT / 04</text><text class="name" x="246" y="179">OKR</text><text class="meta" x="190" y="214">SELECTED WORK</text><path d="M190 224h278" stroke="#26262c"/>
+</g>
+<g class="p" style="animation-delay:.41s">
+<rect class="card" x="511" y="127" width="318" height="112" rx="12"/>
+<rect class="iconbox" x="530" y="146" width="38" height="38" rx="10"/>
+<path class="icon" d="M539 155h20v20h-20zM543 160h12M543 165h12M543 170h8"/>
+<text class="num" x="586" y="157">PROJECT / 05</text><text class="name" x="586" y="179" font-size="12">FasihiExchangeFront</text><text class="meta" x="530" y="214">SELECTED WORK</text><path d="M530 224h278" stroke="#26262c"/>
+</g>
+</svg>
