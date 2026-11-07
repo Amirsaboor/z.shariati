@@ -35,8 +35,7 @@
 
 <br/>
 
-**TowingTask_front** &nbsp;·&nbsp; **Nafis Leather** &nbsp;·&nbsp; **CSeven**  
-**OKR** &nbsp;·&nbsp; **FasihiExchangeFront**
+<img src="./assets/projects.svg?v=1" alt="Selected projects" width="100%" />
 
 <br/>
 
