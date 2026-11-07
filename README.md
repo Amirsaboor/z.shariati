@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=4" alt="Zahra Shariati — Backend Developer and Project Manager" width="100%" />
+<img src="./assets/header.svg?v=5" alt="Zahra Shariati — Backend Developer and Project Manager" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&height=38&lines=Backend+Developer+%7C+Project+Manager;PHP+%2F+Laravel+Developer;Planning+%C2%B7+Coordinating+%C2%B7+Delivering" alt="Backend development typing animation" /></a>
 
