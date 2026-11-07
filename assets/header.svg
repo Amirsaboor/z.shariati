@@ -33,7 +33,7 @@ text{font-family:'JetBrains Mono','IBM Plex Mono',ui-monospace,SFMono-Regular,Me
 <circle class="pl" cx="830" cy="130" r="14" fill="#2563eb"/>
 
 <text class="a" x="64" y="66" font-size="15" fill="#a0a0ad" style="animation-delay:.1s" xml:space="preserve"><tspan fill="#60a5fa">MahXari</tspan> $ whoami<tspan class="cb" fill="#60a5fa"> _</tspan></text>
-<text class="a sans" x="62" y="128" font-size="56" font-weight="700" fill="#ececf0" letter-spacing="-1.5" style="animation-delay:.25s">Hossein <tspan fill="#60a5fa">Nourouzi</tspan></text>
+<text class="a sans" x="62" y="128" font-size="56" font-weight="700" fill="#ececf0" letter-spacing="-1.5" style="animation-delay:.25s">Zahra <tspan fill="#60a5fa">Shariati</tspan></text>
 <text class="a" x="64" y="166" font-size="20" font-weight="700" fill="#ececf0" style="animation-delay:.4s">Backend Developer</text>
 <text class="a" x="64" y="192" font-size="15" fill="#a0a0ad" style="animation-delay:.5s">HTML · CSS · PHP · Laravel · MySQL</text>
 <g class="a" style="animation-delay:.65s">
