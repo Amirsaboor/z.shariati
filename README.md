@@ -27,47 +27,24 @@
 <img src="./assets/stack.svg" alt="Tech stack" width="100%" />
 </div>
 
-## GitHub Insights
+## GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-stats-extended.vercel.app/api?username=MahXari&show_icons=true&count_private=true&hide_border=true&rank_icon=github&theme=dark&bg_color=0C0C0E&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&ring_color=2563EB" alt="GitHub stats" />
-<img height="160" src="https://streak-stats.demolab.com?user=MahXari&hide_border=true&background=0C0C0E&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
-
-<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MahXari&layout=compact&hide_border=true&theme=dark&bg_color=0C0C0E&title_color=60A5FA&text_color=C9D1D9" alt="Top languages" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahXari&theme=github_dark" alt="Productive time" />
+[Profile](https://github.com/MahXari) · [Repositories](https://github.com/MahXari?tab=repositories) · [Activity](https://github.com/MahXari?tab=overview&from=2026-01-01&to=2026-12-31)
 
 </div>
 
-## Development Focus
+## Selected Projects
 
 <div align="center">
 
-| Area | Focus |
-|:--|:--|
-| **Backend Development** | PHP · Laravel |
-| **Database** | MySQL · Data management |
-| **Web Foundations** | HTML · CSS |
-| **Engineering Approach** | Practical solutions · Readable code · Continuous improvement |
+**TowingTask_front** &nbsp;·&nbsp; **Nafis Leather** &nbsp;·&nbsp; **CSeven**
 
-</div>
+**OKR** &nbsp;·&nbsp; **FasihiExchangeFront**
 
-## Projects
+[Explore repositories ↗](https://github.com/MahXari?tab=repositories)
 
-<div align="center">
-
-| Project | Repository |
-|:--|:--:|
-| **TowingTask_front** | [View on GitHub](https://github.com/MahXari?tab=repositories) |
-| **Nafis Leather** | [View on GitHub](https://github.com/MahXari?tab=repositories) |
-| **CSeven** | [View on GitHub](https://github.com/MahXari?tab=repositories) |
-| **OKR** | [View on GitHub](https://github.com/MahXari?tab=repositories) |
-| **FasihiExchangeFront** | [View on GitHub](https://github.com/MahXari?tab=repositories) |
-
-</div>
-
-<div align="center">
-<a href="https://github.com/MahXari?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 </div>
 
 ## Connect
