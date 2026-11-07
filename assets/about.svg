@@ -1,13 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="About Zahra Shariati">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="About Zahra Shariati — backend developer and project manager">
 <style>text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace}.sans{font-family:'Segoe UI',Arial,sans-serif}.fade{opacity:0;animation:fade .7s ease-out forwards}@keyframes fade{to{opacity:1;transform:translateY(0)}from{opacity:0;transform:translateY(7px)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}.fade{opacity:1}}</style>
-<rect x="1" y="1" width="998" height="298" rx="16" fill="#101A2B" stroke="#1E2B40"/>
-<path d="M1 54H999" stroke="#1E2B40"/><circle cx="27" cy="27" r="5" fill="#3B82F6"/><circle cx="47" cy="27" r="5" fill="#26364D"/><circle cx="67" cy="27" r="5" fill="#26364D"/>
-<text x="500" y="32" text-anchor="middle" font-size="12" fill="#94A3B8">about.md</text>
-<text class="fade" x="38" y="93" font-size="14" fill="#60A5FA" style="animation-delay:.1s">$ whoami</text>
-<text class="fade sans" x="38" y="126" font-size="23" font-weight="650" fill="#F1F5F9" style="animation-delay:.2s">Backend-focused web developer</text>
-<text class="fade" x="38" y="164" font-size="14" fill="#CBD5E1" style="animation-delay:.32s">I work with PHP and Laravel to build web applications,</text>
-<text class="fade" x="38" y="188" font-size="14" fill="#CBD5E1" style="animation-delay:.42s">and use MySQL to structure and manage application data.</text>
-<text class="fade" x="38" y="231" font-size="12" fill="#94A3B8" style="animation-delay:.54s">ALSO FAMILIAR WITH</text>
-<g class="fade" style="animation-delay:.65s"><rect x="38" y="248" width="82" height="30" rx="8" fill="#172A46" stroke="#28466B"/><text x="79" y="268" text-anchor="middle" font-size="12" fill="#BFDBFE">HTML</text><rect x="130" y="248" width="82" height="30" rx="8" fill="#172A46" stroke="#28466B"/><text x="171" y="268" text-anchor="middle" font-size="12" fill="#BFDBFE">CSS</text></g>
-<g class="fade" style="animation-delay:.35s"><rect x="700" y="78" width="258" height="176" rx="14" fill="#0B1423" stroke="#1E2B40"/><text x="724" y="108" font-size="11" fill="#94A3B8">DEVELOPMENT FLOW</text><rect x="724" y="129" width="210" height="30" rx="7" fill="#172A46"/><text x="739" y="149" font-size="12" fill="#BFDBFE">01  Application logic</text><path d="M829 160v14" stroke="#3B82F6" stroke-width="1.5"/><path d="M825 170l4 5 4-5" fill="none" stroke="#3B82F6" stroke-width="1.5"/><rect x="724" y="179" width="210" height="30" rx="7" fill="#172A46"/><text x="739" y="199" font-size="12" fill="#BFDBFE">02  Data persistence</text><path d="M829 210v14" stroke="#3B82F6" stroke-width="1.5"/><path d="M825 220l4 5 4-5" fill="none" stroke="#3B82F6" stroke-width="1.5"/><rect x="724" y="229" width="210" height="1" fill="#1E2B40"/></g>
+<rect x="1" y="1" width="998" height="318" rx="16" fill="#101A2B" stroke="#1E2B40"/><path d="M1 54H999" stroke="#1E2B40"/>
+<circle cx="27" cy="27" r="5" fill="#3B82F6"/><circle cx="47" cy="27" r="5" fill="#26364D"/><circle cx="67" cy="27" r="5" fill="#26364D"/><text x="500" y="32" text-anchor="middle" font-size="12" fill="#94A3B8">about.md</text>
+<text class="fade" x="38" y="91" font-size="14" fill="#60A5FA" style="animation-delay:.1s">$ whoami</text>
+<text class="fade sans" x="38" y="123" font-size="22" font-weight="650" fill="#F1F5F9" style="animation-delay:.2s">Backend Developer &amp; Project Manager</text>
+<text class="fade" x="38" y="160" font-size="13" fill="#CBD5E1" style="animation-delay:.32s">I build web applications with PHP and Laravel,</text>
+<text class="fade" x="38" y="183" font-size="13" fill="#CBD5E1" style="animation-delay:.42s">and work with MySQL to manage application data.</text>
+<text class="fade" x="38" y="220" font-size="13" fill="#CBD5E1" style="animation-delay:.52s">I also manage projects: planning work, coordinating tasks,</text>
+<text class="fade" x="38" y="243" font-size="13" fill="#CBD5E1" style="animation-delay:.62s">tracking progress and helping teams deliver on time.</text>
+<text class="fade" x="38" y="281" font-size="11" fill="#94A3B8" style="animation-delay:.72s">CORE SKILLS</text>
+<g class="fade" style="animation-delay:.8s"><rect x="38" y="290" width="72" height="24" rx="7" fill="#172A46" stroke="#28466B"/><text x="74" y="306" text-anchor="middle" font-size="11" fill="#BFDBFE">PHP</text><rect x="118" y="290" width="92" height="24" rx="7" fill="#172A46" stroke="#28466B"/><text x="164" y="306" text-anchor="middle" font-size="11" fill="#BFDBFE">Laravel</text><rect x="218" y="290" width="82" height="24" rx="7" fill="#172A46" stroke="#28466B"/><text x="259" y="306" text-anchor="middle" font-size="11" fill="#BFDBFE">MySQL</text></g>
+<g class="fade" style="animation-delay:.35s"><rect x="700" y="78" width="258" height="206" rx="14" fill="#0B1423" stroke="#1E2B40"/><text x="724" y="108" font-size="11" fill="#94A3B8">PROJECT DELIVERY</text>
+<rect x="724" y="129" width="210" height="30" rx="7" fill="#172A46"/><text x="739" y="149" font-size="12" fill="#BFDBFE">01  Plan &amp; prioritize</text>
+<path d="M829 160v12m-4-4 4 4 4-4" fill="none" stroke="#3B82F6" stroke-width="1.5"/>
+<rect x="724" y="176" width="210" height="30" rx="7" fill="#172A46"/><text x="739" y="196" font-size="12" fill="#BFDBFE">02  Coordinate tasks</text>
+<path d="M829 207v12m-4-4 4 4 4-4" fill="none" stroke="#3B82F6" stroke-width="1.5"/>
+<rect x="724" y="223" width="210" height="30" rx="7" fill="#172A46"/><text x="739" y="243" font-size="12" fill="#BFDBFE">03  Track delivery</text>
+<text x="829" y="272" text-anchor="middle" font-size="10" fill="#60A5FA">ALIGN · EXECUTE · DELIVER</text></g>
 </svg>
