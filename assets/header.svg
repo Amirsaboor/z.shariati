@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Zahra Shariati — Backend Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Zahra Shariati — Backend Developer and Project Manager">
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D18"/><stop offset="1" stop-color="#101A2B"/></linearGradient>
  <radialGradient id="halo"><stop stop-color="#3B82F6" stop-opacity=".24"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
@@ -11,17 +11,15 @@ text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace}.sans{font
 .orbit{transform-origin:820px 137px;animation:orbit 34s linear infinite}.pulse{animation:pulse 2.6s ease-in-out infinite}.cursor{animation:blink 1s steps(1) infinite}
 @media(prefers-reduced-motion:reduce){*{animation:none!important}.enter{opacity:1}}
 </style>
-<rect x="1" y="1" width="998" height="278" rx="18" fill="url(#bg)" stroke="#1E2B40"/>
-<rect x="1" y="1" width="998" height="278" rx="18" fill="url(#grid)"/>
+<rect x="1" y="1" width="998" height="278" rx="18" fill="url(#bg)" stroke="#1E2B40"/><rect x="1" y="1" width="998" height="278" rx="18" fill="url(#grid)"/>
 <circle cx="820" cy="137" r="190" fill="url(#halo)"/>
 <g class="orbit" fill="none" stroke="#60A5FA" stroke-opacity=".65"><circle cx="820" cy="137" r="112" stroke-dasharray="3 9"/><circle cx="932" cy="137" r="4" fill="#60A5FA" stroke="none"/></g>
-<circle cx="820" cy="137" r="83" fill="none" stroke="#1E2B40" stroke-width="1.5"/>
-<circle cx="820" cy="137" r="58" fill="none" stroke="#3B82F6" stroke-width="1.5" stroke-dasharray="34 12"/>
+<circle cx="820" cy="137" r="83" fill="none" stroke="#1E2B40" stroke-width="1.5"/><circle cx="820" cy="137" r="58" fill="none" stroke="#3B82F6" stroke-width="1.5" stroke-dasharray="34 12"/>
 <rect x="779" y="96" width="82" height="82" rx="22" fill="#101A2B" stroke="#3B82F6" stroke-opacity=".7"/>
 <path d="M800 119h40v31h-40zM808 158h24M820 150v8M808 129l-5 5 5 5M832 129l5 5-5 5" fill="none" stroke="#93C5FD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <text class="enter" x="62" y="63" font-size="14" fill="#94A3B8" style="animation-delay:.1s"><tspan fill="#60A5FA">~/profile</tspan> $ whoami<tspan class="cursor" fill="#60A5FA"> _</tspan></text>
 <text class="enter sans" x="60" y="133" font-size="57" font-weight="700" letter-spacing="-1.8" fill="#F1F5F9" style="animation-delay:.22s">Zahra <tspan fill="#60A5FA">Shariati</tspan></text>
-<text class="enter" x="64" y="174" font-size="20" font-weight="600" fill="#E2E8F0" style="animation-delay:.36s">Backend Developer</text>
-<text class="enter" x="64" y="205" font-size="15" fill="#94A3B8" style="animation-delay:.48s">PHP  ·  Laravel  ·  MySQL  ·  Web Development</text>
-<g class="enter" style="animation-delay:.62s"><rect x="64" y="226" width="194" height="30" rx="15" fill="#101A2B" stroke="#1E2B40"/><circle class="pulse" cx="82" cy="241" r="4" fill="#60A5FA"/><text x="96" y="245" font-size="12" fill="#CBD5E1">Building reliable web apps</text></g>
+<text class="enter" x="64" y="174" font-size="18" font-weight="600" fill="#E2E8F0" style="animation-delay:.36s">Backend Developer  ·  Project Manager</text>
+<text class="enter" x="64" y="205" font-size="14" fill="#94A3B8" style="animation-delay:.48s">PHP  ·  Laravel  ·  MySQL  ·  Project Coordination</text>
+<g class="enter" style="animation-delay:.62s"><rect x="64" y="226" width="250" height="30" rx="15" fill="#101A2B" stroke="#1E2B40"/><circle class="pulse" cx="82" cy="241" r="4" fill="#60A5FA"/><text x="96" y="245" font-size="12" fill="#CBD5E1">Development &amp; project delivery</text></g>
 </svg>
